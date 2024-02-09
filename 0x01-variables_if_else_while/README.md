@@ -1,4 +1,4 @@
-			Variables, if, else, while
+			VARIABLES, IF ELSE, WHILE
 
 0. Positive or Negative - This program will assign a random number to the variable n each time it is executed. When the source code is complete it will determine whether the number stored in the variable n is positive or negative.
 
